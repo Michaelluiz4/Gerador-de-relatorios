@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <title>Upload de arquivos</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Gerador de Relatórios</h1>
+        <form method="POST" enctype="multipart/form-data" action="/upload">
+            <label for="arquivo">Selecione o arquivo Excel:</label>
+            <input type="file" name="arquivo" id="arquivo" required>
+            <label for="data_inicio">Data início:</label>
+            <input type="date" name="data_inicio" id="data_inicio">
+            <label for="data_fim">Data fim:</label>
+            <input type="date" name="data_fim" id="data_fim">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+</body>
+</html>

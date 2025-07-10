@@ -1,0 +1,21 @@
+# Ignorar pastas de upload temporárias
+uploads/
+
+# Arquivos gerados pelo sistema
+__pycache__/
+*.pyc
+
+# Ambiente virtual, se estiver usando
+venv/
+env/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivo Excel gerado automaticamente
+relatorio_filtrado.xlsx
+
+teste.xlsx
+gerar_dados.py
+
