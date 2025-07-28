@@ -14,10 +14,11 @@ Ferramenta web feita com Flask + Python que permite:
 - HTML/CSS
 
 ## Demostração
-Aqui o usuário faz o upload do arquivo e escolhe as datas de ínicio e fim que deseja ordenar.
+Aqui o usuário faz o upload do arquivo e escolhe as datas de ínicio e fim que deseja ordenar o novo relatório que será gerado.
 
 ![Tela inicial](imgs/Tela_inicial.png)
-Aqui é o novo relatório que foi gerado para download já ordenado pelas pelas datas que o usuário escolheu.
+
+Aqui é o novo relatório que foi gerado para download já ordenado pelas datas que o usuário escolheu, e pronto para download.
 
 ![Tela relatório filtrado](imgs/Tela_relatorio_filtrado.png)
 
