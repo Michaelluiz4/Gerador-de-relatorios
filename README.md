@@ -14,8 +14,8 @@ Ferramenta web feita com Flask + Python que permite:
 - HTML/CSS
 
 ## Demostração
-![Tela inicial](Tela_inicial.png)
-![Tela relatório filtrado](Tela_relatorio_filtrado.png)
+![Tela inicial](imgs/Tela_inicial.png)
+![Tela relatório filtrado](imgs/Tela_relatorio_filtrado.png)
 
 ## Como usar
 
