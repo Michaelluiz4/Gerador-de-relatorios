@@ -15,8 +15,10 @@ Ferramenta web feita com Flask + Python que permite:
 
 ## Demostração
 Aqui o usuário faz o upload do arquivo e escolhe as datas de ínicio e fim que deseja ordenar.
+
 ![Tela inicial](imgs/Tela_inicial.png)
 Aqui é o novo relatório que foi gerado para download já ordenado pelas pelas datas que o usuário escolheu.
+
 ![Tela relatório filtrado](imgs/Tela_relatorio_filtrado.png)
 
 ## Como usar
