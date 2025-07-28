@@ -13,6 +13,10 @@ Ferramenta web feita com Flask + Python que permite:
 - Pandas
 - HTML/CSS
 
+## Demostração
+![Tela inicial](Tela_inicial.png)
+![Tela relatório filtrado](Tela_relatorio_filtrado.png)
+
 ## Como usar
 
 1. Clone este repositório
